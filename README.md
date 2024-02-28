@@ -42,10 +42,12 @@ while True:
 ```
 ## OUPUT
 # client:
-![2bclient](https://github.com/Ashwathm12/2b_SLIDING_WINDOW_PROTOCOL/assets/138849225/5ffa9a62-8bc4-4f25-bf02-3a677d9cd38a)
+![2bclient](https://github.com/Ashwathm12/2b_SLIDING_WINDOW_PROTOCOL/assets/138849225/fadff310-a9f8-4e56-932d-8d7d7c0ce04e)
+
 
 # server:
-![2bserver](https://github.com/Ashwathm12/2b_SLIDING_WINDOW_PROTOCOL/assets/138849225/ccd11202-75ec-462e-bfa3-63bd1455e533)
+![2bserver](https://github.com/Ashwathm12/2b_SLIDING_WINDOW_PROTOCOL/assets/138849225/b9130cf4-b87c-4c03-8c4b-f5239e9d7cc2)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
